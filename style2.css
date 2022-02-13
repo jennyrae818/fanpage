@@ -1,2 +1,4 @@
-body {background-color: lightseagreen}
-body {font-family: Arial;}
+body {
+    font-family: Arial;
+    background-image: linear-gradient(rgb(105, 241, 230), #ffff);
+}
